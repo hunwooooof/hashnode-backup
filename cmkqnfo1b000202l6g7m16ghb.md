@@ -175,4 +175,4 @@ const rootVNode = {
 
 * 參考資料：[渲染机制 | Vue.js](https://cn.vuejs.org/guide/extras/rendering-mechanism#rendering-mechanism)
     
-* Cover Credit: Gemini
+* Cover credit：Gemini

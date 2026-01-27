@@ -1,5 +1,5 @@
 ---
-title: "Vue Patch Flag 是什麼？用位元運算快速判斷動態更新"
+title: "Vue Patch Flag 怎麼用位元運算快速判斷動態更新？"
 seoTitle: "Vue Patch Flag 是什麼？用位元運算快速判斷動態更新"
 seoDescription: "了解 Vue 中使用位元運算進行更新標記的原理。"
 datePublished: Tue Jan 27 2026 06:05:51 GMT+0000 (Coordinated Universal Time)

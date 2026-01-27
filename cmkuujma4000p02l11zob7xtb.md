@@ -11,7 +11,7 @@ tags: vuejs, frontend-development
 ---
 
 如果還不知道 Virtual DOM、vnode、Compile 以及 Mount，可以先看上篇：  
-[Vue 工廠 ── 從模板到畫面，Vue 的渲染機制是什麼？（上）](https://wanyu.hashnode.dev/vue-template-to-dom-1)
+[從模板到畫面，Vue 的渲染機制是什麼？（上）](https://wanyu.hashnode.dev/vue-template-to-dom-1)
 
 ## 前言
 

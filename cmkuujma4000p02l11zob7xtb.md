@@ -134,7 +134,7 @@ export enum PatchFlags {
 
 因為有了這些像作弊一樣的更新標記，當運行到這個元素時，只會檢查這些 props 是否有更新，不會沒事去檢查其他根本不可能更新的 props。這種檢查方式，稱作**位元運算**。
 
-> 延伸閱讀：[Vue Patch Flag 是什麼？用位元運算快速判斷動態更新](https://wanyu.hashnode.dev/vue-patch-flag)
+> 延伸閱讀：[Vue Patch Flag 怎麼用位元運算快速判斷動態更新？](https://wanyu.hashnode.dev/vue-patch-flag)
 
 （那最外層標記的 `64` 是什麼意思呢？可以找到 patchFlags 對 64 的定義，再自己想想看🧠😆）
 

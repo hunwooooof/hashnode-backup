@@ -12,11 +12,11 @@ tags: vuejs, frontend-development
 
 ## 前言
 
-小的才疏學淺、孤陋寡聞，是一直到看了 [Vue 渲染機制](https://cn.vuejs.org/guide/extras/rendering-mechanism.html)的文件，才知道有**位元運算**這種工具（概念？）的存在。寫給同樣第一次看到位運算的人，看完這篇，就能更搞懂 patchFlag 的運作原理了！
+小的才疏學淺、孤陋寡聞，是一直到看了 [Vue 渲染機制](https://cn.vuejs.org/guide/extras/rendering-mechanism.html)的文件，才知道有**位元運算**這種工具（概念？）的存在。寫給同樣第一次看到位元運算的人，看完這篇，就能更搞懂 patchFlag 的運作原理了！
 
 ## 位元運算
 
-在 [Vue 工廠 ── 從模板到畫面，Vue 的渲染機制是什麼？（下）](https://wanyu.hashnode.dev/vue-template-to-dom-2#heading-2-patch-flags)的更新類型標記中，我們有提到，Vue 在編譯時會替各個元素標上更新類型的記號，並且用**位元運算**進行檢查。
+在 [從模板到畫面，Vue 的渲染機制是什麼？（下）](https://wanyu.hashnode.dev/vue-template-to-dom-2#heading-2-patch-flags)的更新類型標記中，我們有提到，Vue 在編譯時會替各個元素標上更新類型的記號，並且用**位元運算**進行檢查。
 
 到底何謂「用位元運算進行檢查」？我們先貼上 Vue 原始碼中的 [**patchFlag.ts**](https://github.com/vuejs/core/blob/main/packages/shared/src/patchFlags.ts) [程式碼片段](https://github.com/vuejs/core/blob/main/packages/shared/src/patchFlags.ts)：
 

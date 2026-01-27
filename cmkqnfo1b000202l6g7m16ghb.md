@@ -1,6 +1,6 @@
 ---
 title: "從模板到畫面，Vue 的渲染機制是什麼？（上）"
-seoTitle: "Vue 工廠 ── 從模板到畫面，Vue 的渲染機制是什麼？（上）"
+seoTitle: "從模板到畫面，Vue 的渲染機制是什麼？（上）"
 seoDescription: "簡單探討 Vue 從模板到畫面的渲染機制，了解虛擬 DOM、vnode 以及編譯和掛載過程。"
 datePublished: Fri Jan 23 2026 08:58:59 GMT+0000 (Coordinated Universal Time)
 cuid: cmkqnfo1b000202l6g7m16ghb

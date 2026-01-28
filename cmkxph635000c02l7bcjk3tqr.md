@@ -5,7 +5,7 @@ seoDescription: "Learn to manage fluctuating demands efficiently, maintaining pr
 datePublished: Thu Aug 21 2025 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmkxph635000c02l7bcjk3tqr
 slug: hate-requirement-churn
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769585263156/00e4b7ec-fcc4-4dee-aa11-b2d4f1711d5e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769586579917/fc0a29ae-bf9c-494b-a832-2b6062feffd7.png
 tags: software-development, work-experience, requirements-management
 
 ---
